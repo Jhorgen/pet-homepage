@@ -1,0 +1,20 @@
+.dark-background {
+  background-color: darkgray;
+}
+
+.light-background {
+  background-color: lightgray;
+}
+
+#muted {
+  border: 1px solid black;
+}
+
+body {
+  background-color: lightgray;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
